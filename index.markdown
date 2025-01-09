@@ -69,6 +69,9 @@ layout: mydefault
             <a class="navbar-item" href="https://infiagent.github.io/">
               InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks
             </a>
+	    <a class="navbar-item" href="https://github.com/Reallm-Labs/InfiGUIAgent">
+	      InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection
+	    </a>
           </div>
         </div>
       </div>
