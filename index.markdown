@@ -268,7 +268,7 @@ layout: mydefault
 
 
 
-  <section class="section" style="margin-top: -40px !important;">
+  <section class="section" style="margin-top: -40px !important;text-align: center;">
     <div class="container is-max-desktop">
       <!-- Abstract. -->
       <div class="columns is-centered has-text-centered">
