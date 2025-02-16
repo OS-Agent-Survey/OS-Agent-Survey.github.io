@@ -1,6 +1,6 @@
-# OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use
+# OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use
 
-This is the repository that contains source code for the [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://os-agent-survey.github.io/) website.
+This is the repository that contains source code for the [OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/) website.
 
 
 ```
