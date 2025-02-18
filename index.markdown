@@ -276,11 +276,11 @@ layout: mydefault
           <h2 class="title is-3" id='overview-of-xxx'>Overview of Survey</h2>
           <div class="content has-text-justified" style="font-size: 1.1rem;">
             <p>
- 		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/1_os_agent_evolutionary_tree_02_17.jpg">
+ 		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/1_os_agent_evolutionary_tree_github_0217.jpg">
 		    
  	This project conducts a comprehensive survey on OS Agents, which are <span style="font-weight: bold;">(M)LLM-based agents that use computing devices (e.g., computers and mobile phones) by operating within the environments and interfaces (e.g., Graphical User Interface (GUI)) provided by operating systems (OS) to automate tasks</span>. The survey begins by elucidating the fundamentals of OS Agents, exploring their key components including the environment, observation space, and action space, and outlining essential capabilities such as understanding, planning, and grounding. Methodologies for constructing OS Agents are examined, with a focus on domain-specific foundation models and agent frameworks. A detailed review of evaluation protocols and benchmarks highlights how OS Agents are assessed across diverse tasks. Finally, current challenges and promising future research directions, including safety and privacy, personalization and self-evolution, are discussed. Ultimately, we hope this study will serve as a catalyst for innovation, driving meaningful progress in both academia and industry.<br>
   		
-    	     <img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/survey_overview_2.jpg">
+    	     <img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/1_teaser_os_agent_0217.jpg">
   
             </p>
           </div>
@@ -320,15 +320,9 @@ layout: mydefault
           </p> 
           -->
           <p>If you find our work valuable for your research or applications, we would greatly appreciate a star ⭐ and a citation using the BibTeX entry provided below.</p> 
-          <pre><code>@article{202412.2294,
-	doi = {10.20944/preprints202412.2294.v1},
-	url = {https://doi.org/10.20944/preprints202412.2294.v1},
-	year = 2024,
-	month = {December},
-	publisher = {Preprints},
-	author = {Xueyu Hu and Tao Xiong and Biao Yi and Zishu Wei and Ruixuan Xiao and Yurun Chen and Jiasheng Ye and Meiling Tao and Xiangxin Zhou and Ziyu Zhao and Yuhuai Li and Shengze Xu and Shawn Wang and Xinchen Xu and Shuofei Qiao and Kun Kuang and Tieyong Zeng and Liang Wang and Jiwei Li and Yuchen Eleanor Jiang and Wangchunshu Zhou and Guoyin Wang and Keting Yin and Zhou Zhao and Hongxia Yang and Fan Wu and Shengyu Zhang and Fei Wu},
-	title = {OS Agents: A Survey on MLLM-Based Agents for General Computing Devices Use},
-	journal = {Preprints}
+          <pre><code>@article{huagents,
+  title={OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use},
+  author={Hu, Xueyu and Xiong, Tao and Yi, Biao and Wei, Zishu and Xiao, Ruixuan and Chen, Yurun and Ye, Jiasheng and Tao, Meiling and Zhou, Xiangxin and Zhao, Ziyu and others}
 }</code></pre>
         </div>
       </div>
