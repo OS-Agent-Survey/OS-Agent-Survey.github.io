@@ -108,18 +108,19 @@ layout: mydefault
 		<a href="#" style="text-decoration: none; color: blue;">Shengze Xu</a><sup style="color: #a74cfe;">6</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Shawn Wang</a><sup style="color: #f58449;">7</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a><sup style="color: #6fbf73;">1</sup>      
-    		<a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a><sup style="color: #6fbf73;">1</sup><br>      
+    		<a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a><sup style="color: #6fbf73;">1</sup>
+      		<a href="#" style="text-decoration: none; color: blue;">Zhaokai Wang</a><sup style="color: #6fbf73;">8</sup><br>
 		<a href="#" style="text-decoration: none; color: blue;">Kun Kuang</a><sup style="color: #6fbf73;">1</sup>,  
      		<a href="#" style="text-decoration: none; color: blue;">Tieyong Zeng</a><sup style="color: #a74cfe;">6</sup>, 
   		<a href="#" style="text-decoration: none; color: blue;">Liang Wang</a><sup style="color: #007bff;">4</sup><sup>,</sup><sup style="color: #ff0000;">5</sup>,
       		<a href="#" style="text-decoration: none; color: blue;">Jiwei Li</a><sup style="color: #6fbf73;">1</sup>,  
      		<a href="#" style="text-decoration: none; color: blue;">Yuchen Eleanor Jiang</a><sup style="color: #ed4b82;">3</sup>,<br> 
       		<a href="#" style="text-decoration: none; color: blue;">Wangchunshu Zhou</a><sup style="color: #ed4b82;">3</sup>,
-        	<a href="#" style="text-decoration: none; color: blue;">Guoyin Wang</a><sup style="color: #f1728c;">8</sup> 
+        	<a href="#" style="text-decoration: none; color: blue;">Guoyin Wang</a><sup style="color: #f1728c;">9</sup> 
 		<a href="#" style="text-decoration: none; color: blue;">Keting Yin</a><sup style="color: #6fbf73;">1</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Zhou Zhao</a><sup style="color: #6fbf73;">1</sup>,<br>
-		<a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a><sup style="color: #ac9bae;">9</sup>,
- 		<a href="#" style="text-decoration: none; color: blue;">Fan Wu</a><sup style="color: #300521;">10</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a><sup style="color: #ac9bae;">10</sup>,
+ 		<a href="#" style="text-decoration: none; color: blue;">Fan Wu</a><sup style="color: #300521;">8</sup>,
  		<a href="https://shengyuzhang.github.io/" style="text-decoration: none; color: blue;">Shengyu Zhang</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #e7510e;">*</sup>,
 	     	<a href="#" style="text-decoration: none; color: blue;">Fei Wu</a><sup style="color: #6fbf73;">1</sup>,<br>
 		</span>
@@ -132,10 +133,9 @@ layout: mydefault
 	       <span class="author-block"><sup style="color:#ff0000;">5</sup>Institute of Automation, Chinese Academy of Sciences </span><br>
 	       <span class="author-block"><sup style="color:#a74cfe;">6</sup>The Chinese University of Hong Kong </span>       
 	       <span class="author-block"><sup style="color:#f58449;">7</sup>Tsinghua University </span>
-	       <span class="author-block"><sup style="color:#f1728c;">8</sup>01.AI </span><br>
-	       <span class="author-block"><sup style="color:#ac9bae;">9</sup>The Hong Kong Polytechnic University </span>
-	       <span class="author-block"><sup style="color:#300521;">10</sup>Shanghai Jiao Tong University </span><br><br>
-	       
+	       <span class="author-block"><sup style="color:#f1728c;">8</sup>Shanghai Jiao Tong University </span><br>
+	       <span class="author-block"><sup style="color:#f1728c;">9</sup>01.AI </span><br>
+	       <span class="author-block"><sup style="color:#ac9bae;">10</sup>The Hong Kong Polytechnic University </span><br><br>
 	        <span class="author-block"><sup style="color: #ff0000;">†</sup>Project Lead </span>
        		<span class="author-block"><sup style="color: #d968c0;">‡</sup>Core Contributor </span>
        		<span class="author-block"><sup style="color: #e7510e;">*</sup>Corresponding Author </span><br>
