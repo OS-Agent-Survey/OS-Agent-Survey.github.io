@@ -134,7 +134,7 @@ layout: mydefault
 	       <span class="author-block"><sup style="color:#a74cfe;">6</sup>The Chinese University of Hong Kong </span>       
 	       <span class="author-block"><sup style="color:#f58449;">7</sup>Tsinghua University </span>
 	       <span class="author-block"><sup style="color:#f1728c;">8</sup>Shanghai Jiao Tong University </span><br>
-	       <span class="author-block"><sup style="color:#f1728c;">9</sup>01.AI </span><br>
+	       <span class="author-block"><sup style="color:#f1728c;">9</sup>01.AI </span>
 	       <span class="author-block"><sup style="color:#ac9bae;">10</sup>The Hong Kong Polytechnic University </span><br><br>
 	        <span class="author-block"><sup style="color: #ff0000;">†</sup>Project Lead </span>
        		<span class="author-block"><sup style="color: #d968c0;">‡</sup>Core Contributor </span>
