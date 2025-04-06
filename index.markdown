@@ -109,7 +109,7 @@ layout: mydefault
 		<a href="#" style="text-decoration: none; color: blue;">Shawn Wang</a><sup style="color: #f58449;">7</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a><sup style="color: #6fbf73;">1</sup>      
     		<a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a><sup style="color: #6fbf73;">1</sup>
-      		<a href="#" style="text-decoration: none; color: blue;">Zhaokai Wang</a><sup style="color: #6fbf73;">8</sup><br>
+      		<a href="#" style="text-decoration: none; color: blue;">Zhaokai Wang</a><sup style="color: #300521;">8</sup><br>
 		<a href="#" style="text-decoration: none; color: blue;">Kun Kuang</a><sup style="color: #6fbf73;">1</sup>,  
      		<a href="#" style="text-decoration: none; color: blue;">Tieyong Zeng</a><sup style="color: #a74cfe;">6</sup>, 
   		<a href="#" style="text-decoration: none; color: blue;">Liang Wang</a><sup style="color: #007bff;">4</sup><sup>,</sup><sup style="color: #ff0000;">5</sup>,
