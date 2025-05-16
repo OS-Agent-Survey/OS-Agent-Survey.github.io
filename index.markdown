@@ -247,13 +247,10 @@ layout: mydefault
           <h2 class="title is-3" id='overview-of-xxx'>🔥News</h2>
           <div class="content has-text-justified" style="font-size: 1.1rem;">
             <p>
- 		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/1_os_agent_evolutionary_tree_github_0217.jpg">
 		    
-- 🔥 ***`2025/05/15`*** Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" is accepted by ACL 2025.<br>
-- 🔥 ***`2024/12/12`*** Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" released.
+- 🔥 <span style="font-weight: bold;">2025/05/15</span> Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" is accepted by ACL 2025.<br>
+- 🔥 <span style="font-weight: bold;">2024/12/12</span> Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" released.
   		
-    	     <img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/1_teaser_os_agent_0217.jpg">
-  
             </p>
           </div>
         </div>
