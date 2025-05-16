@@ -6,10 +6,10 @@ layout: mydefault
 
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use (ACL 2025)">
+  <meta name="description" content="OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use">
   <meta name="keywords" content="OS-Agents, MLLM, MLLM-based, computing-devices-use, A-Survey-on-MLLM-based-Agents-for-General-Computing-Devices-Use,GUI-Agent, computer-use, GUI, web-agent, multimodal-large-language-model, large-language-model, survey, phone-use">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use</title>
+  <title> OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use (ACL 2025)</title>
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
 
   <link rel="stylesheet" href="./static/css/bulma.min.css">
@@ -238,28 +238,6 @@ layout: mydefault
     </div>
   </section>
   
-<!--
-  <section class="section" style="margin-top: -40px !important;text-align: center;">
-    <div class="container is-max-desktop">
-      <!-- Abstract. -->
-      <div class="columns is-centered has-text-centered">
-        <div class="column is-four-fifths">
-          <h2 class="title is-3" id='overview-of-xxx'>🔥News</h2>
-          <div class="content has-text-justified" style="font-size: 1.1rem;">
-            <p>
-		    
-🔥 <span style="font-weight: bold;">2025/05/15</span> Our paper "<a href="https://os-agent-survey.github.io/paper.pdf">OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use</a>" is accepted by ACL 2025.<br>
-🔥 <span style="font-weight: bold;">2024/12/12</span> Our paper "<a href="https://os-agent-survey.github.io/paper.pdf">OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use</a>" released.
-            </p>
-          </div>
-        </div>
-      </div>
-      <!--/ Abstract. <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey.github.io">source
-                code</a>-->
-    </div>
-  </section>
--->
-
 
 <section class="hero" style="margin-top: -40px !important;">
   <div class="hero-body">
