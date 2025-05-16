@@ -6,7 +6,7 @@ layout: mydefault
 
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use">
+  <meta name="description" content="OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use (ACL 2025)">
   <meta name="keywords" content="OS-Agents, MLLM, MLLM-based, computing-devices-use, A-Survey-on-MLLM-based-Agents-for-General-Computing-Devices-Use,GUI-Agent, computer-use, GUI, web-agent, multimodal-large-language-model, large-language-model, survey, phone-use">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title> OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use</title>
@@ -238,7 +238,7 @@ layout: mydefault
     </div>
   </section>
   
-
+<!--
   <section class="section" style="margin-top: -40px !important;text-align: center;">
     <div class="container is-max-desktop">
       <!-- Abstract. -->
@@ -258,7 +258,7 @@ layout: mydefault
                 code</a>-->
     </div>
   </section>
-
+-->
 
 
 <section class="hero" style="margin-top: -40px !important;">
