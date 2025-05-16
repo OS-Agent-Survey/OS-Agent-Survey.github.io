@@ -248,14 +248,14 @@ layout: mydefault
           <div class="content has-text-justified" style="font-size: 1.1rem;">
             <p>
 		    
-- 🔥 <span style="font-weight: bold;">2025/05/15</span> Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" is accepted by ACL 2025.<br>
-- 🔥 <span style="font-weight: bold;">2024/12/12</span> Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" released.
-  		
+🔥 <span style="font-weight: bold;">2025/05/15</span> Our paper "<a href="https://os-agent-survey.github.io/paper.pdf">OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use</a>-->" is accepted by ACL 2025.<br>
+🔥 <span style="font-weight: bold;">2024/12/12</span> Our paper "<a href="https://os-agent-survey.github.io/paper.pdf">OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use</a>-->" released.
             </p>
           </div>
         </div>
       </div>
-      <!--/ Abstract. -->
+      <!--/ Abstract. <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey.github.io">source
+                code</a>-->
     </div>
   </section>
 
