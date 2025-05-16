@@ -87,7 +87,7 @@ layout: mydefault
         <div class="columns is-centered">
           <div class="column has-text-centered">
             <h1 class="title is-1 publication-title" style=" font-size:2.3rem;">OS Agents: A Survey on MLLM-based Agents<br>
-            for Computer, Phone and Browser Use
+            for Computer, Phone and Browser Use (ACL 2025)
             </h1>
 
 
