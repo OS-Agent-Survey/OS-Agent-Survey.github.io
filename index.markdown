@@ -106,7 +106,7 @@ layout: mydefault
 		<a href="#" style="text-decoration: none; color: blue;">Ziyu Zhao</a><sup style="color: #6fbf73;">1</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Yuhuai Li</a><sup style="color: #6fbf73;">1</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Shengze Xu</a><sup style="color: #a74cfe;">6</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Shawn Wang</a><sup style="color: #f58449;">7</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Shenzhi Wang</a><sup style="color: #f58449;">7</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a><sup style="color: #6fbf73;">1</sup>      
     		<a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a><sup style="color: #6fbf73;">1</sup>
       		<a href="#" style="text-decoration: none; color: blue;">Zhaokai Wang</a><sup style="color: #300521;">8</sup><br>
