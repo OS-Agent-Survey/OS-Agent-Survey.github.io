@@ -245,7 +245,6 @@ layout: mydefault
       <div class="columns is-centered">
         <div class="column has-text-centered">
           <div class="is-size-5 publication-authors">
-			  <!--
             <span class="author-block">
               <!-- 主标题部分 -->
               <span style="color: #FF0000; font-size: 30px; font-weight: bold;">❗Why is there no arXiv link for this paper?</span><br>
@@ -260,7 +259,6 @@ layout: mydefault
                 We are disappointed by the lack of transparency in arXiv’s moderation process.
               </span><br><br>
             </span>
-			-->
           </div>
         </div>
       </div>
