@@ -238,7 +238,7 @@ layout: mydefault
     </div>
   </section>
   
-<!--
+
 <section class="hero" style="margin-top: -40px !important;">
   <div class="hero-body">
     <div class="container is-max-desktop">
@@ -265,7 +265,7 @@ layout: mydefault
     </div>
   </div>
 </section>
--->
+
 
 
   <section class="section" style="margin-top: -40px !important;text-align: center;">
