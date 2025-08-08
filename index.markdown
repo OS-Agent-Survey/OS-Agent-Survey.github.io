@@ -246,6 +246,7 @@ layout: mydefault
         <div class="column has-text-centered">
           <div class="is-size-5 publication-authors">
             <span class="author-block">
+				<!--
               <!-- 主标题部分 -->
               <span style="color: #FF0000; font-size: 30px; font-weight: bold;">❗Why is there no arXiv link for this paper?</span><br>
               <!-- 描述正文 -->
@@ -257,6 +258,7 @@ layout: mydefault
                 A resubmission did not resolve the issue either. As a result, the ONLY way to access the paper at the moment is through our 
                 <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main" style="text-decoration: none; color: #b20000 !important;"><b>GitHub Repository</b></a> or via <a href="https://openreview.net/forum?id=I7ODESoF6k" style="text-decoration: none; color: #b20000 !important;"><b>OpenReview Archive</b></a>.
                 We are disappointed by the lack of transparency in arXiv’s moderation process.
+				-->
               </span><br><br>
             </span>
           </div>
