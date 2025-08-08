@@ -326,7 +326,7 @@ layout: mydefault
   year={2024},
   publisher={OpenReview}
 }
-}</code></pre>
+</code></pre>
         </div>
       </div>
     </div>
